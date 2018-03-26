@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.movie;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class MovieApiApplicationTests {
+public class FavouriteMovieAppApplicationTests {
 
 	@Test
 	public void contextLoads() {

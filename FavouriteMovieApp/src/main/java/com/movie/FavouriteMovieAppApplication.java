@@ -1,13 +1,12 @@
-package com.example.demo;
+package com.movie;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MovieApiApplication {
+public class FavouriteMovieAppApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MovieApiApplication.class, args);
-	
+		SpringApplication.run(FavouriteMovieAppApplication.class, args);
 	}
 }
